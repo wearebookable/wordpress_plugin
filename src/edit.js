@@ -81,7 +81,7 @@ export default function Edit( { attributes, setAttributes } ) {
 	return (
 		<div { ...useBlockProps() }>
 			<InspectorControls key="setting">
-				<div className="container">
+				<div className="settingsContainer">
 					<Notice status="info" isDismissible={ false }>
 						<p>
 							You can find your Bookable URL in the{ ' ' }
