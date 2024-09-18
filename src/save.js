@@ -30,7 +30,7 @@ export default function save( { attributes } ) {
 							settings to show your schedule.
 						</div>
 						<img
-							src="https://bookable.ams3.cdn.digitaloceanspaces.com/brand/logo.png"
+							src={ bookableIcon }
 							style={ { height: 24 } }
 							alt="Bookable"
 						/>
