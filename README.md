@@ -30,8 +30,3 @@ Certainly! You can accept cash payments for your events. We support cash and var
 **Can I use Bookable for free?**
 
 Yes! Bookable is free to use if you're organizing free events. You can manage and promote your free events without any cost. If you run a mixture of both free and paid events, you will only pay for the paid events.
-
-## Changelog
-
-### 0.1.0
-* Initial Release
