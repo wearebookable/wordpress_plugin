@@ -1,8 +1,8 @@
-=== Bookable ===
-Contributors:      We Are Bookable Ltd.
+=== Bookable Schedule Widget ===
+Contributors:      plevetsky
 Tags:              block
 Tested up to:      6.6.1
-Stable tag:        0.1.0
+Stable tag:        0.1.2
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,5 +44,5 @@ The source code for this plugin can be found at [https://github.com/wearebookabl
 
 == Changelog ==
 
-= 0.1.0 =
+= 0.1.2 =
 * Initial Release
